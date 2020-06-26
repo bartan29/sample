@@ -139,6 +139,11 @@ header {
   width: 25%;
 }
 
+@media (max-width: 1000px) {
+.lesson {
+  width: 50%;
+}
+}
 .lesson-icon {
   position: relative;
 }
